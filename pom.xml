@@ -14,7 +14,7 @@
     </modules>
     <properties>
         <java.version>1.8</java.version>
-        <mysql.version>5.1.47</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <mybits.generator.core.version>1.3.7</mybits.generator.core.version>
         <mybits.version>3.5.1</mybits.version>
     </properties>
